@@ -1,6 +1,6 @@
 # Weatherom
 
-![Weatherom Logo](/assets/images/screenshots/logo_2.png)
+<img src="/assets/images/screenshots/logo_2.png" alt="Weatherom Logo" width="150">
 
 Welcome to Weatherom, your go-to weather app for accurate forecasts and real-time updates. Plan your day with confidence, no matter where you are!
 
@@ -16,34 +16,5 @@ Welcome to Weatherom, your go-to weather app for accurate forecasts and real-tim
 
 ## Screenshots
 
-![Screenshot 1](/assets/images/screenshots/image%201.jpg)
-*Real-Time Updates, Instant Insights!*
+![Weatherom Screenshot](/assets/images/screenshots/group.png)
 
-![Screenshot 2](/assets/images/screenshots/image%202.jpg)
-*Plan Your Week: 7-Day Forecasts.*
-
-![Screenshot 3](screenshots/screenshot3.png)
-*Live Radar: Track Weather Now!*
-
-![Screenshot 4](screenshots/screenshot4.png)
-*Stay Comfortable: Temp Trends at a Glance.*
-
-![Screenshot 5](screenshots/screenshot5.png)
-*Stay Safe: Instant Emergency Alerts.*
-
-![Screenshot 6](screenshots/screenshot6.png)
-*Anywhere, Anytime: Global Weather Updates.*
-
-![Screenshot 7](screenshots/screenshot7.png)
-*Your Weather, Your Way: Customize with Ease.*
-
-![Screenshot 8](screenshots/screenshot8.png)
-*All Features, No Drain: Efficient & Effective.*
-
-<!-- ## Download on Google Play
-
-[![Download on Google Play](link-to-your-google-play-badge.png)](your-google-play-store-link)
-
----
-
-**Note:** Replace placeholder texts (e.g., `link-to-your-logo.png`, `your-google-play-badge.png`, etc.) with your actual file names or URLs. -->

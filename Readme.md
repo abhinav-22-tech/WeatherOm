@@ -1,6 +1,6 @@
-# Weatherom
+# WeatherOm
 
-<img src="/assets/images/screenshots/logo_2.png" alt="Weatherom Logo" width="150">
+<img src="/assets/images/screenshots/logo_2.png" alt="Weatherom Logo" width="150" align="center">
 
 Welcome to Weatherom, your go-to weather app for accurate forecasts and real-time updates. Plan your day with confidence, no matter where you are!
 

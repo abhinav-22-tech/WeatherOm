@@ -4,7 +4,7 @@
     "slug": "WeatherOm",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/screenshots/logo.png",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.abhinav22.WeatherOm"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f92172c4-40e7-4a67-9af5-11c28eb0f643"
+      }
     }
   }
 }
